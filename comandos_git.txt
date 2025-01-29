@@ -10,6 +10,7 @@ git checkout <nome da branch> -> troca de branch
 git merge <nome da branch> -> eu trago todas as alterações, não todos os arquivos.
 git branch -d secundaria (não posso estar na branch secundária para deletá-la)
 git push origin main -> para enviar o arquivo do repositório local para a origem
+git pull origin main -> puxar do remoto/origem o main que foi feito inicialmente
 
 ## FLUXO DE TRABALHO
 1. criar diretório do projeto
