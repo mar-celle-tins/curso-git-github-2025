@@ -8,6 +8,10 @@ Confira tudo o que temos no Youtube. É de graça!
 
 [Curso Git 2025]
 
+Além do nosso canal no Youtube, se ligue no nosso site e agenda para ficar por dentro de tudo o que vai rolar em 2025. 
+
+[site]
+
 ## Fluxo de trabalho Git local
 
     git checkout -b
